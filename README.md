@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YAHYA NAMIR</h1>
-<h3 align="center">I’m Yahya Namir👋 a seasoned full-stack A developer passionate about crafting innovative web solutions.👨‍💻</h3>
+<h3 align="center">I’m Yahya Namir👋 a seasoned full-stack developer passionate about crafting innovative web solutions.👨‍💻</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
